@@ -1,11 +1,11 @@
 const React = require('react')
 const ReactDOM = require('react-dom')
 const bridge = require('@vkontakte/vk-bridge')
-
+let App = require('./App')
 //import React from "react";
 //import ReactDOM from "react-dom";
 //import bridge from "@vkontakte/vk-bridge";
-import App from "./App";
+//import App from "./App";
 
 // Init VK  Mini App
 bridge.send("VKWebAppInit");

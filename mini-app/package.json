@@ -4,6 +4,7 @@
   "description": "",
   "homepage": "https://dead-fiend.github.io/",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "start": "cross-env PORT=10888 HTTPS=true react-scripts start",
     "build": "react-scripts build",

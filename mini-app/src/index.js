@@ -1,6 +1,6 @@
 import React from "../node_modules/react";
 import ReactDOM from "../node_modules/react-dom";
-import bridge from "@vkontakte/vk-bridge";
+import bridge from "../node_modules/@vkontakte/vk-bridge";
 import App from "./App";
 
 // Init VK  Mini App

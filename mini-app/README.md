@@ -1,4 +1,4 @@
-[<img width="134" src="https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg">]
+<img width="134" src="https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg">
 
 # Create VK Mini App [![npm][npm]][npm-url] [![deps][deps]][deps-url]
 
